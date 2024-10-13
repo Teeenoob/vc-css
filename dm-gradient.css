@@ -10,3 +10,6 @@
 [class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Do Not Disturb"]) {
     background: linear-gradient(to right, rgb(130,70,70) , transparent);
 }
+[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Streaming"]) {
+    background: linear-gradient(to right, rgb(50, 33, 88) , transparent);
+}
