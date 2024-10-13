@@ -1,0 +1,12 @@
+[class^="link_"][aria-label*="(direct message)"]:has([aria-label*=", Online"]) {
+    background: linear-gradient(to right, rgb(70, 110, 70) , transparent);
+}
+[class^="link_"][aria-label*="(direct message)"]:has([aria-label*=", Idle"]) {
+    background: linear-gradient(to right, rgb(135, 105, 75) , transparent);
+}
+[class^="link_"][aria-label*="(direct message)"]:has([aria-label*=", Offline"]) {
+    background: linear-gradient(to right, rgb(68, 68, 68) , transparent);
+}
+[class^="link_"][aria-label*="(direct message)"]:has([aria-label*=", Do Not Disturb"]) {
+    background: linear-gradient(to right, rgb(130,70,70) , transparent);
+}
