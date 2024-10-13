@@ -7,7 +7,7 @@
 [class^="memberInner"]:has(div>div[aria-label*="Do Not Disturb"]) {
     background: linear-gradient(to right, rgb(130, 70, 70), transparent);
 }
-[class^="memberInner"]:has(div>div[aria-label*="Offline"]) {
+[class^="memberInner"] {
     background: linear-gradient(to right, rgb(66, 66, 66), transparent);
 }
 [class^="memberInner"]:has(div>div[aria-label*="Streaming"]) {
