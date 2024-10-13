@@ -11,5 +11,5 @@
     background: linear-gradient(to right, rgb(130,70,70) , transparent);
 }
 [class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Streaming"]) {
-    background: linear-gradient(to right, rgb(50, 33, 88) , transparent);
+    background: linear-gradient(to right, rgb(63, 33, 88) , transparent);
 }
