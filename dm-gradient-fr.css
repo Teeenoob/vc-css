@@ -1,0 +1,18 @@
+[class^="link_"][aria-label*="(message privé)"]:has([aria-label*="En ligne"]) {
+    background: linear-gradient(to right, rgb(68, 105, 68) , transparent);
+}
+[class^="link_"][aria-label*="(message privé)"]:has([aria-label*="Inactif"]) {
+    background: linear-gradient(to right, rgb(135, 105, 75) , transparent);
+}
+[class^="link_"][aria-label*="(message privé)"]:has([aria-label*="Hors ligne"]) {
+    background: linear-gradient(to right, rgb(66, 66, 66) , transparent);
+}
+[class^="link_"][aria-label*="(message privé)"]:has([aria-label*="Ne pas déranger"]) {
+    background: linear-gradient(to right, rgb(130,70,70) , transparent);
+}
+[class^="link_"][aria-label*="(message privé)"]:has([aria-label*="En direct"]) {
+    background: linear-gradient(to right, rgb(63, 33, 88) , transparent);
+}
+[class^="link_"][aria-label*="(message de groupe)"] {
+    background: linear-gradient(to right, rgb(55, 55, 55) , transparent);
+}
