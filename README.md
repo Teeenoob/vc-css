@@ -16,3 +16,5 @@ https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/dm-gradient.cs
 https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/ml-gradient.css
 ```
 ----
+
+**If you're French put "-fr" at the end of import/link**
