@@ -16,7 +16,3 @@ https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/dm-gradient.cs
 https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/ml-gradient.css
 ```
 ----
-
-**for french: "dm-gradient-fr.css"** (thanks to "anthonus")
-
-**more later**
