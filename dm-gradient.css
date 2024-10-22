@@ -1,16 +1,16 @@
-[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Online"]) {
-    background: linear-gradient(to right, rgb(68, 105, 68) , transparent);
+a[class^="link_"][href^="/channels/@me/"]:has(rect[fill*="#23a55a"]) {
+    background: linear-gradient(to right, rgb(68, 105, 68), transparent);
 }
-[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Idle"]) {
-    background: linear-gradient(to right, rgb(135, 105, 75) , transparent);
+a[class^="link_"][href^="/channels/@me/"]:has(rect[fill*="#f0b232"]) {
+    background: linear-gradient(to right, rgb(135, 105, 75), transparent);
 }
-[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Offline"]) {
-    background: linear-gradient(to right, rgb(66, 66, 66) , transparent);
+a[class^="link_"][href^="/channels/@me/"]:has(rect[fill*="#80848e"]) {
+    background: linear-gradient(to right, rgb(66, 66, 66), transparent);
 }
-[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Do Not Disturb"]) {
-    background: linear-gradient(to right, rgb(130,70,70) , transparent);
+a[class^="link_"][href^="/channels/@me/"]:has(rect[fill*="#f23f43"]) {
+    background: linear-gradient(to right, rgb(130,70,70), transparent);
 }
-[class^="link_"][aria-label*="(direct message)"]:has([aria-label*="Streaming"]) {
+a[class^="link_"][href^="/channels/@me/"]:has(rect[fill*="#593695"]) {
     background: linear-gradient(to right, rgb(63, 33, 88) , transparent);
 }
 [class^="link_"][aria-label*="(group message)"] {
