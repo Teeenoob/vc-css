@@ -1,3 +1,5 @@
+Did leave discord.
+
 ## Snippets
 ----
 **Gradient Direct Messages**
