@@ -1,4 +1,4 @@
-Did leave discord.
+Please fork it or somehow contact me to continue this.
 
 ## Snippets
 ----
