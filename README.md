@@ -1,4 +1,4 @@
-Please fork it or somehow contact me to continue this.
+Please notify me if you gonna update this for me.
 
 ## Snippets
 ----
@@ -16,5 +16,14 @@ https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/dm-gradient.cs
 ```
 ```css
 https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/ml-gradient.css
+```
+----
+
+**Remove Close DMs (X)**
+```css
+@import url("https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/removeclosedm.css");
+```
+```css
+https://raw.githubusercontent.com/Teeenoob/vc-css/refs/heads/main/removeclosedm.css
 ```
 ----
